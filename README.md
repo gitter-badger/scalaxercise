@@ -1,6 +1,8 @@
 scalaxercise
 ============
 
+[![Join the chat at https://gitter.im/scala-montreal/scalaxercise](https://badges.gitter.im/scala-montreal/scalaxercise.svg)](https://gitter.im/scala-montreal/scalaxercise?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository hosts the code for some exercises for Scala-Montreal meet-ups.
 
 Getting started!
